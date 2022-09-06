@@ -9,6 +9,9 @@ indent_style = space
 insert_final_newline = false
 trim_trailing_whitespace = true
 
+[*.cjs]
+indent_size = 2
+
 [*.go]
 indent_style = tab
 
